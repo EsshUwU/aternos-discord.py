@@ -39,4 +39,4 @@ The bot uses Discord slash commands to interact with the Minecraft server. Here 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
-
+Depreciated 
